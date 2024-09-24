@@ -33,7 +33,7 @@ val Typography = Typography(
     */
 )
 val CustomTypography = Typography(
-    displayMedium = TextStyle(
+    headlineSmall = TextStyle(
         fontWeight = FontWeight.Bold,
         fontSize = 24.sp,
         letterSpacing = 1.5.sp,
